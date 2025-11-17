@@ -1,4 +1,4 @@
 # Tutorail2
 learningGithub
 <br>
-Author - Tanjina Afrin
+Author - Tanjina (Apna College)
